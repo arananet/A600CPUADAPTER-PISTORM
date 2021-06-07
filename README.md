@@ -20,13 +20,13 @@ This simple adapter allows to relocate the pistorm to use it on an A600 and be a
 
 In order to build your relocator, you will need 2 female pins and two male to male pins. As for the pins, Here are the example references.
 
-1x40 male to male pins.
-
-https://es.aliexpress.com/item/32855402975.html?spm=a2g0o.productlist.0.0.67f644e2jFLCc4&algo_pvid=d8e0e82d-2952-4c7b-9e19-fab7eabb94d3&algo_expid=d8e0e82d-2952-4c7b-9e19-fab7eabb94d3-18&btsid=2100bddb16230921934126595e0cc0&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
-
 1x40 male to female pins.
 
 https://es.aliexpress.com/item/32854325182.html?spm=a2g0o.detail.1000060.2.350fada9Xv7nRh&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.169870.0&scm_id=1007.13339.169870.0&scm-url=1007.13339.169870.0&pvid=9b1afe58-2a7a-4338-a981-ace8b2a98808&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.169870.0,pvid:9b1afe58-2a7a-4338-a981-ace8b2a98808,tpp_buckets:668%230%23131923%230_668%230%23131923%230_668%23888%233325%2314_668%23888%233325%2314_668%232846%238115%232000_668%235811%2327180%2341_668%232717%237567%23940_668%231000022185%231000066059%230_668%233468%2315613%23444_668%232846%238115%232000_668%235811%2327180%2341_668%232717%237567%23940_668%233164%239976%2356_668%233468%2315613%23444
+
+PLCC68 socket.
+
+https://es.aliexpress.com/item/32959126757.html?spm=a2g0o.productlist.0.0.6a3a30e5VRxVzE&algo_pvid=e67ce8d5-7d2f-4181-8a61-1c03062f6360&algo_expid=e67ce8d5-7d2f-4181-8a61-1c03062f6360-50&btsid=2100bdcf16230936838054620e444f&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
 
 # Update
 
