@@ -11,12 +11,12 @@ This simple adapter allows to relocate the pistorm to use it on an A600 and be a
 
 # Bom
 
-|Name |Value|Footprint
---------------------
-|C2	  |1uf	|C0805
-|PWR  |RED  |LED0805
-|R2   |220  |0805
-|R3   |1k   |0805
+|Name |Value|Footprint |
+|-----|-----|--------- |
+|C2	  |1uf	|C0805   |
+|PWR  |RED  |LED0805 |
+|R2   |220  |0805    |
+|R3   |1k   |0805    |
 
 In order to build your relocator, you will need 2 female pins and two male to male pins. As for the pins, Here are the example references.
 
